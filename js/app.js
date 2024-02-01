@@ -59,12 +59,12 @@ showTestimonials(index, 'right');
 
 
 var gallery = [
-    { url: '../images/holder.jpg' },
-    { url: '../images/holder.jpg' },
-    { url: '../images/holder.jpg' },
-    { url: '../images/holder.jpg' },
-    { url: '../images/holder.jpg' },
-    { url: '../images/holder.jpg' },
+    { url: './images/holder.jpg' },
+    { url: './images/holder.jpg' },
+    { url: './images/holder.jpg' },
+    { url: './images/holder.jpg' },
+    { url: './images/holder.jpg' },
+    { url: './images/holder.jpg' },
     // more images...
 ];
 var galleryIndex = 0;
