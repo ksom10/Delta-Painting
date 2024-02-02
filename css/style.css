@@ -574,6 +574,10 @@ html, body {
   font-family: 'Open Sans', sans-serif;
 }
 
+.phone-number {
+  color: #0148ae;  /* change color to match your site's text color */
+  text-decoration: none;  /* remove underline */
+}
 .footer-content img {
   width: 100px;
   height: 100%;
